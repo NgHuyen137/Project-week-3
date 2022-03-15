@@ -1,2 +1,2 @@
-# Project-week-3
-Exercises use pointer
+# Project KTLT
+# Exercises use pointer
